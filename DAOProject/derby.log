@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 20 14:56:58 MSK 2016:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): экземпляр a816c00e-0154-ce06-96a1-000006d5c678
+в каталоге базы данных memory:C:\Folder\DAOProject\codejava\webdb sun.misc.Launcher$AppClassLoader@1a1a7aa4 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=C:\Folder\DAOProject
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
